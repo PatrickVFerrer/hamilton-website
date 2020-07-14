@@ -1,11 +1,14 @@
-ul {
-  columns: 2;
+.ul_one{
+  display: table;
+  margin: 0 auto;
 }
-p {
-  margin: 5px
+ul{
+  margin-top: 0;
+  margin-bottom: 0;
+  line-space: 0;
 }
 .center_text {
-  text-align: center
+  text-align: center;
 }
 .center_image{
   display: block;
