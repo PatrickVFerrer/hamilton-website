@@ -1,13 +1,21 @@
 ul {
   columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
 }
-.center {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+p {
+  margin: 5px
 }
-.alex-pic {
-  size: 120%;
+.center_text {
+  text-align: center
+}
+.center_image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.body {
+  background-image: 
+    url(
+      'https://cdn.glitch.com/a9d01c33-f0b0-4df0-b81a-eca5c4861df7%2Fhamilton-backgrounds-lovely-sewing-bee-part-1-hamilton-dress-hamildress-combination-of-hamilton-backgrounds.jpg?v=1594740992702'
+    );
 }
