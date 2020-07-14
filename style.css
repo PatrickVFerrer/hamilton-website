@@ -16,10 +16,14 @@ ul{
   margin-right: auto;
   width: 50%;
 }
+a{
+  color: #7eb6ff;
+}
 body {
+  font-size: 24px;
   color: white;
   background-image: 
     url(
-      'https://cdn.glitch.com/a9d01c33-f0b0-4df0-b81a-eca5c4861df7%2Fhamilton-backgrounds-lovely-sewing-bee-part-1-hamilton-dress-hamildress-combination-of-hamilton-backgrounds.jpg?v=1594740992702'
+      'https://cdn.glitch.com/a9d01c33-f0b0-4df0-b81a-eca5c4861df7%2Ff30d8d63af8c1175c87e7234b20c7c3cd34eb705_s2_n0.jpg?v=1594743004353'
     );
 }
