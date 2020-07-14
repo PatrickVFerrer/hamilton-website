@@ -2,6 +2,9 @@
   display: table;
   margin: 0 auto;
 }
+.ul_two {
+  columns: 2;
+}
 ul{
   margin-top: 0;
   margin-bottom: 0;
