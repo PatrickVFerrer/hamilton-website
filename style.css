@@ -3,7 +3,7 @@ ul {
   -webkit-columns: 2;
   -moz-columns: 2;
 }
-.alex {
+.center {
   display: flex;
   align-items: center;
   justify-content: center;
